@@ -7,6 +7,7 @@ import { terser } from "rollup-plugin-terser";
 const production = !process.env.ROLLUP_WATCH;
 
 export default {
+  external: ["react", "react-dom"],
   input: "src/fox-mediacloud-ux-svelte-poc.js",
   output: {
     sourcemap: true,
