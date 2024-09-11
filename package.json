@@ -8,7 +8,8 @@
     "test": "jest",
     "prepare": "husky install",
     "format": "prettier --write --plugin-search-dir=. .",
-    "check-format": "prettier --plugin-search-dir=. --check ."
+    "check-format": "prettier --plugin-search-dir=. --check .",
+    "deploy": "git subtree push --prefix dist origin gh-pages"
   },
   "devDependencies": {
     "@babel/core": "^7.23.3",
