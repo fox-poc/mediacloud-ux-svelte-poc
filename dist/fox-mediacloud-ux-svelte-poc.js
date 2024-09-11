@@ -493,7 +493,7 @@ System.register([], (function (exports) {
 						img = element("img");
 						t0 = space();
 						h1 = element("h1");
-						h1.textContent = "You are on the svelte front end!!";
+						h1.textContent = "You are on the svelte front end!";
 						t2 = space();
 						react_button = element("react-button");
 						if (!src_url_equal(img.src, img_src_value = "https://static-00.iconduck.com/assets.00/svelte-icon-426x512-cm99sfkq.png")) attr(img, "src", img_src_value);

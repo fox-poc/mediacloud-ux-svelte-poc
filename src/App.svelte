@@ -3,7 +3,7 @@
   alt="svelte-icon"
   height="200px"
 />
-<h1>You are on the svelte front end!!</h1>
+<h1>You are on the svelte front end!</h1>
 
 <react-button text="react button!" onClick={() => alert('yay')}/>
 
