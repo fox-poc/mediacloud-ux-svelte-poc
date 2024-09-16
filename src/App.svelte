@@ -20,11 +20,3 @@
     { title: "fake channel 2", url: "none" },
   ])}
 />
-
-<style>
-  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
