@@ -29,6 +29,7 @@
     "@fox-poc/mediacloud-ux-sdk-poc": "^0.1.15",
     "@fox-poc/mediacloud-ux-styleguide-poc": "^0.1.15",
     "@sveltejs/vite-plugin-svelte": "^3.1.2",
+    "@tsconfig/svelte": "^5.0.4",
     "single-spa-svelte": "^2.1.1",
     "sirv-cli": "^2.0.2",
     "vite": "^5.4.6",
