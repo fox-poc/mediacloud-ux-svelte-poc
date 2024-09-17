@@ -4,6 +4,13 @@
   height="150px"
 />
 
+<script>
+  // groups and token are being passed in from the root config
+  export let groups;
+  export let token;
+  console.log('groups', groups, 'token,', token);
+</script>
+
 <br />
 <br />
 <h3>This component is being brought in directly from the styleguide.</h3>
