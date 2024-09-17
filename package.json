@@ -26,8 +26,8 @@
     "svelte-jester": "^5.0.0"
   },
   "dependencies": {
-    "@fox-poc/mediacloud-ux-sdk-poc": "^0.1.13",
-    "@fox-poc/mediacloud-ux-styleguide-poc": "^0.1.13",
+    "@fox-poc/mediacloud-ux-sdk-poc": "^0.1.15",
+    "@fox-poc/mediacloud-ux-styleguide-poc": "^0.1.15",
     "@sveltejs/vite-plugin-svelte": "^3.1.2",
     "single-spa-svelte": "^2.1.1",
     "sirv-cli": "^2.0.2",
